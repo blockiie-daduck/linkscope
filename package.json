@@ -1,0 +1,16 @@
+{
+  "name": "linkscope",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Link-in-bio pages for small creators, with analytics that help them grow",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=22.5" },
+  "scripts": {
+    "test": "node --test test/",
+    "dev": "node scripts/dev.mjs",
+    "seed": "node scripts/seed.mjs",
+    "import": "node src/import-linktree.mjs",
+    "weekly": "node scripts/weekly.mjs"
+  }
+}
