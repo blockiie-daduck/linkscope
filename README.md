@@ -11,7 +11,7 @@ Hotjar-type heatmaps and session recordings need a JS snippet running on the pag
 
 ## Status
 
-Idea / scaffolding. See [docs/PLAN.md](docs/PLAN.md).
+Early scaffolding. Phase A is a self-serve, invite-gated core: creators sign in, import their Linktree or start blank, edit their own page, and see their own analytics. See [docs/PLAN.md](docs/PLAN.md).
 
 ## Open questions
 
